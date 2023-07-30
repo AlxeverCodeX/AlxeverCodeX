@@ -69,7 +69,7 @@
 
 
 
-| <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AlxeverCodeX&theme=shades-of-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlxeverCodeX&theme=shades-of-purple&show_icons=true&include_all_commits=true&hide_border=true" alt="Emmanuel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlxeverCodeX&langs_count=8&theme=shades-of-purple&layout=compact&hide_border=true" alt="Emmanuel's GitHub stats" /> |
+| <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AlxeverCodeX&theme=shades-of-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlxeverCodeX&theme=shades-of-purple&show_icons=true&include_all_commits=true&hide_border=true" alt="Emmanuel's GitHub stats" /> | <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlxeverCodeX&langs_count=8&theme=shades-of-purple&layout=compact&hide_border=true" alt="Emmanuel's GitHub stats" /> |
 | ------------- | ------------- | ------------- |
 
 
