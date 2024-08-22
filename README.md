@@ -20,7 +20,7 @@
 
 - 🌟 Besides my technical skills, I bring a can-do attitude, enthusiasm, and a strong work ethic to any team I join. I value open communication and believe in creating a collaborative and enjoyable work environment. Let's embark on this journey together and create something extraordinary!
 
--  ⛪️ If you want to discuss topics related to God's Word, Christ, and spiritual growth or want to share insights about faith, I'm here to engage in meaningful conversations.
+
 
 
 
@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
   
 </p>
